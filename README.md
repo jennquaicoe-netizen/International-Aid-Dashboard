@@ -30,8 +30,6 @@ two decades?
 - Annual commitments peaked at **$3.5B in 2019**, with an earlier
   wave in 2008–09
 
-![Trend Dashboard](screenshots/trend-dashboard.png)
-
 ---
 
 ## 🛠️ How I Built It
@@ -54,7 +52,7 @@ typography, uniform KPI cards, palette-coded slicers, and charts that
 label only what matters (peak years, leading categories) instead of
 every data point.
 
-![KPI Cards](screenshots/kpi-cards.png)
+![KPI Cards](https://github.com/jennquaicoe-netizen/International-Aid-Dashboard/blob/main/KPIs_China%20Aid.png?raw=true)
 
 ---
 
@@ -64,7 +62,6 @@ Five slicers — **Region, Commitment Year, Status, OECD Income Group,
 Recipient** — let a reader isolate any country, era, or income tier and
 watch every KPI and chart update.
 
-![Slicers](screenshots/slicers.png)
 
 ---
 
