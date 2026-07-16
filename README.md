@@ -7,7 +7,7 @@ Global Chinese Development Finance Dataset, cleaned, modelled, and distilled
 into two interactive Excel dashboards analysing $13.2B in Chinese development
 finance across 53 African nations (2000–2021).
 
-![Main Dashboard](screenshots/dashboard-insight.png)
+![Main Dashboard]([screenshots/dashboard-insight.png](https://github.com/jennquaicoe-netizen/International-Aid-Dashboard/blob/main/Insights_China%20Aid.png))
 
 ---
 
